@@ -1,6 +1,6 @@
 {
     "type": "module",
-    "name": "template",
+    "name": "uj2",
     "dependencies": { },
     "start": "echo 'Hi Mom!'",
     "startupTimeoutMs": 1000,
